@@ -1,4 +1,4 @@
-# Explaining Predictions: Brain MRI image regions responsible for cnacer detection
+# Explaining Predictions: Brain MRI image regions responsible for tumor detection
 ## Summary
 - Part one of this project is to detect cancer type(no_tumor,glioma_tumor, meningioma_tumor,pituitary_tumor)
  using VGG16 pretrained model and runnig custom training on out Brain MRI dataset.
@@ -11,10 +11,10 @@
 ## Demo:
 From the following images you observe which regions of the MRI images are responsible for the classification of our trained model:
 
-![alt text](./sample outputs/pituitary_tumor.jpeg "pituitary_tumor.jpeg")
+![alt text](./sample outputs/pituitary_tumor.jpeg)
 
-![alt text](./sample outputs/meningioma_tumor.jpeg "meningioma_tumor")
+![alt text](./sample outputs/meningioma_tumor.jpeg)
 
-![alt text](./sample outputs/no_tumor.jpeg "no_tumor")
+![alt text](./sample outputs/no_tumor.jpeg)
 
 
