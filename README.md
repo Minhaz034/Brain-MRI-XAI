@@ -11,9 +11,9 @@
 ## Demo:
 From the following images you observe which regions of the MRI images are responsible for the classification of our trained model:
 
-![Alt text](sample outputs/pituitary_tumor.jpeg "pituitary_tumor.jpeg")
+![Alt text](./sample outputs/pituitary_tumor.jpeg "pituitary_tumor.jpeg")
 
-![Alt text](sample outputs/meningioma_tumor.jpeg "meningioma_tumor")
+![Alt text](./sample outputs/meningioma_tumor.jpeg "meningioma_tumor")
 
-![Alt text](sample outputs/no_tumor.jpeg "no_tumor")
+![Alt text](./sample outputs/no_tumor.jpeg "no_tumor")
 
