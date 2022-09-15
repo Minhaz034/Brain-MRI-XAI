@@ -16,5 +16,5 @@ From the following images you observe which regions of the MRI images are respon
 ![alt text](./sample outputs/meningioma_tumor.jpeg)
 
 ![alt text](./sample outputs/no_tumor.jpeg)
-
+![alt text](https://github.com/Minhaz034/Brain-MRI-XAI/tree/master/sample%20outputs/blob/master/pituitary_tumor.jpeg?raw=True)
 
