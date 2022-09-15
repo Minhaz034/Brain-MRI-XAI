@@ -10,16 +10,20 @@
 
 ## Demo:
 From the following images you observe which regions of the MRI images are responsible for the classification of our trained model:
-![alt text](https://github.com/Minhaz034/Brain-MRI-XAI/blob/master/sample%20outputs/pituitary_tumor.jpeg?raw=True)
-![alt text](https://github.com/Minhaz034/Brain-MRI-XAI/blob/master/sample%20outputs/meningioma_tumor.jpeg?raw=True)
-![alt text](https://github.com/Minhaz034/Brain-MRI-XAI/blob/master/sample%20outputs/no_tumor.jpeg?raw=True)
 
+![pituitary_tumor](https://github.com/Minhaz034/Brain-MRI-XAI/blob/master/sample%20outputs/pituitary_tumor.jpeg?raw=True) 
+*pituitary_tumor*
+
+![meningioma_tumor](https://github.com/Minhaz034/Brain-MRI-XAI/blob/master/sample%20outputs/meningioma_tumor.jpeg?raw=True)
+*meningioma_tumor*
+
+![no_tumor](https://github.com/Minhaz034/Brain-MRI-XAI/blob/master/sample%20outputs/no_tumor.jpeg?raw=True)
+*no_tumor*
 <!-- ![alt text](./sample outputs/pituitary_tumor.jpeg)
 
 ![alt text](./sample outputs/meningioma_tumor.jpeg)
 
 ![alt text](./sample outputs/no_tumor.jpeg) -->
-
 
 
 
